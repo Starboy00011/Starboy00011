@@ -15,7 +15,7 @@
 - **Data Science**  
 
 🛠️ With hands-on experience, I’ve worked extensively with:  
-- **ROS**  
+- **ROS2**  
 - **MATLAB**  
 - **Gazebo**  
 - **Python**  
